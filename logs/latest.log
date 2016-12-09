@@ -1,22 +1,22 @@
-[14:18:17] [Server thread/INFO]: Starting minecraft server version 1.11
-[14:18:17] [Server thread/INFO]: Loading properties
-[14:18:17] [Server thread/INFO]: Default game type: SURVIVAL
-[14:18:17] [Server thread/INFO]: Generating keypair
-[14:18:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:18:17] [Server thread/INFO]: Using default channel type
-[14:18:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:18:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:18:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:18:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:18:17] [Server thread/INFO]: Preparing level "world"
-[14:18:17] [Server thread/INFO]: Preparing start region for level 0
-[14:18:18] [Server thread/INFO]: Preparing spawn area: 59%
-[14:18:19] [Server thread/INFO]: Done (1.556s)! For help, type "help" or "?"
-[14:18:21] [Server thread/INFO]: Stopping the server
-[14:18:21] [Server thread/INFO]: Stopping server
-[14:18:21] [Server thread/INFO]: Saving players
-[14:18:21] [Server thread/INFO]: Saving worlds
-[14:18:21] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[14:18:21] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[14:18:21] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[14:18:21] [Server Shutdown Thread/INFO]: Stopping server
+[14:29:06] [Server thread/INFO]: Starting minecraft server version 1.11
+[14:29:06] [Server thread/INFO]: Loading properties
+[14:29:06] [Server thread/INFO]: Default game type: SURVIVAL
+[14:29:06] [Server thread/INFO]: Generating keypair
+[14:29:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:29:06] [Server thread/INFO]: Using default channel type
+[14:29:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:29:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:29:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:29:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:29:06] [Server thread/INFO]: Preparing level "world"
+[14:29:07] [Server thread/INFO]: Preparing start region for level 0
+[14:29:08] [Server thread/INFO]: Preparing spawn area: 74%
+[14:29:08] [Server thread/INFO]: Done (1.403s)! For help, type "help" or "?"
+[14:29:17] [Server thread/INFO]: Stopping the server
+[14:29:17] [Server thread/INFO]: Stopping server
+[14:29:17] [Server thread/INFO]: Saving players
+[14:29:17] [Server thread/INFO]: Saving worlds
+[14:29:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[14:29:18] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[14:29:18] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[14:29:18] [Server Shutdown Thread/INFO]: Stopping server
