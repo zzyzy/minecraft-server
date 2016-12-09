@@ -1,22 +1,28 @@
-[05:53:42] [Server thread/INFO]: Starting minecraft server version 1.11
-[05:53:42] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[05:53:42] [Server thread/INFO]: Loading properties
-[05:53:42] [Server thread/INFO]: Default game type: SURVIVAL
-[05:53:42] [Server thread/INFO]: Generating keypair
-[05:53:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:53:44] [Server thread/INFO]: Using epoll channel type
-[05:53:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:53:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:53:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:53:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:53:44] [Server thread/INFO]: Preparing level "world"
-[05:53:44] [Server thread/INFO]: Preparing start region for level 0
-[05:53:46] [Server thread/INFO]: Preparing spawn area: 0%
-[05:53:47] [Server thread/INFO]: Preparing spawn area: 26%
-[05:53:48] [Server thread/INFO]: Preparing spawn area: 52%
-[05:53:49] [Server thread/INFO]: Preparing spawn area: 76%
-[05:53:50] [Server thread/INFO]: Preparing spawn area: 94%
-[05:53:50] [Server thread/INFO]: Done (6.224s)! For help, type "help" or "?"
-[05:54:41] [Server thread/INFO]: YJ[/175.143.251.20:49435] logged in with entity id 226 at (555.5, 76.0, 314.5)
-[05:54:41] [Server thread/INFO]: YJ joined the game
-[05:54:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3910ms behind, skipping 78 tick(s)
+[05:56:27] [Server thread/INFO]: Starting minecraft server version 1.11
+[05:56:27] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[05:56:27] [Server thread/INFO]: Loading properties
+[05:56:27] [Server thread/INFO]: Default game type: SURVIVAL
+[05:56:27] [Server thread/INFO]: Generating keypair
+[05:56:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:56:28] [Server thread/INFO]: Using epoll channel type
+[05:56:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:56:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:56:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:56:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:56:28] [Server thread/INFO]: Preparing level "world"
+[05:56:29] [Server thread/INFO]: Preparing start region for level 0
+[05:56:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:56:31] [Server thread/INFO]: Preparing spawn area: 33%
+[05:56:32] [Server thread/INFO]: Preparing spawn area: 62%
+[05:56:33] [Server thread/INFO]: Preparing spawn area: 95%
+[05:56:33] [Server thread/INFO]: Done (4.897s)! For help, type "help" or "?"
+[05:56:54] [Server thread/INFO]: YJ[/175.143.251.20:49448] logged in with entity id 225 at (555.5, 76.0, 314.5)
+[05:56:54] [Server thread/INFO]: YJ joined the game
+[05:56:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2449ms behind, skipping 48 tick(s)
+[05:58:58] [Server thread/INFO]: zhi[/59.154.5.6:52472] logged in with entity id 1834 at (538.9537324647621, 63.875, 353.3355428650146)
+[05:58:58] [Server thread/INFO]: zhi joined the game
+[05:59:08] [Server thread/INFO]: <zhi> hi
+[05:59:12] [Server thread/INFO]: <zhi> bye
+[05:59:15] [Server thread/INFO]: zhi lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:59:15] [Server thread/INFO]: zhi left the game
+[06:15:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3042ms behind, skipping 60 tick(s)
