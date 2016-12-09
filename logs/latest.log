@@ -1,28 +1,735 @@
-[05:56:27] [Server thread/INFO]: Starting minecraft server version 1.11
-[05:56:27] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[05:56:27] [Server thread/INFO]: Loading properties
-[05:56:27] [Server thread/INFO]: Default game type: SURVIVAL
-[05:56:27] [Server thread/INFO]: Generating keypair
-[05:56:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:56:28] [Server thread/INFO]: Using epoll channel type
-[05:56:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:56:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:56:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:56:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:56:28] [Server thread/INFO]: Preparing level "world"
-[05:56:29] [Server thread/INFO]: Preparing start region for level 0
-[05:56:30] [Server thread/INFO]: Preparing spawn area: 0%
-[05:56:31] [Server thread/INFO]: Preparing spawn area: 33%
-[05:56:32] [Server thread/INFO]: Preparing spawn area: 62%
-[05:56:33] [Server thread/INFO]: Preparing spawn area: 95%
-[05:56:33] [Server thread/INFO]: Done (4.897s)! For help, type "help" or "?"
-[05:56:54] [Server thread/INFO]: YJ[/175.143.251.20:49448] logged in with entity id 225 at (555.5, 76.0, 314.5)
-[05:56:54] [Server thread/INFO]: YJ joined the game
-[05:56:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2449ms behind, skipping 48 tick(s)
-[05:58:58] [Server thread/INFO]: zhi[/59.154.5.6:52472] logged in with entity id 1834 at (538.9537324647621, 63.875, 353.3355428650146)
-[05:58:58] [Server thread/INFO]: zhi joined the game
-[05:59:08] [Server thread/INFO]: <zhi> hi
-[05:59:12] [Server thread/INFO]: <zhi> bye
-[05:59:15] [Server thread/INFO]: zhi lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:59:15] [Server thread/INFO]: zhi left the game
-[06:15:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3042ms behind, skipping 60 tick(s)
+[07:59:16] [Server thread/INFO]: Starting minecraft server version 1.11
+[07:59:16] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[07:59:16] [Server thread/INFO]: Loading properties
+[07:59:16] [Server thread/INFO]: Default game type: SURVIVAL
+[07:59:16] [Server thread/INFO]: Generating keypair
+[07:59:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:59:17] [Server thread/INFO]: Using epoll channel type
+[07:59:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:59:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:59:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:59:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:59:17] [Server thread/INFO]: Preparing level "world"
+[07:59:18] [Server thread/INFO]: Preparing start region for level 0
+[07:59:20] [Server thread/INFO]: Preparing spawn area: 0%
+[07:59:21] [Server thread/INFO]: Preparing spawn area: 14%
+[07:59:22] [Server thread/INFO]: Preparing spawn area: 43%
+[07:59:23] [Server thread/INFO]: Preparing spawn area: 58%
+[07:59:24] [Server thread/INFO]: Preparing spawn area: 88%
+[07:59:24] [Server thread/INFO]: Done (7.023s)! For help, type "help" or "?"
+[07:59:40] [Server thread/INFO]: YJ[/175.143.251.20:50059] logged in with entity id 275 at (481.3422653707968, 68.0, 196.6197229351011)
+[07:59:40] [Server thread/INFO]: YJ joined the game
+[07:59:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3717ms behind, skipping 74 tick(s)
+[08:00:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5442ms behind, skipping 108 tick(s)
+[08:09:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3266ms behind, skipping 65 tick(s)
+[08:15:52] [Server thread/INFO]: YJ has just earned the achievement [Time to Strike!]
+[09:33:22] [Server thread/INFO]: YJ has just earned the achievement [Monster Hunter]
+[09:57:43] [Server thread/INFO]: YJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[09:57:43] [Server thread/INFO]: YJ left the game
+[10:08:48] [Server thread/INFO]: panda[/115.135.0.228:61956] logged in with entity id 88691 at (222.83810634243986, 72.0, 246.46876904375736)
+[10:08:48] [Server thread/INFO]: panda joined the game
+[10:08:55] [Server thread/INFO]: panda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:08:55] [Server thread/INFO]: panda left the game
+[10:09:38] [Server thread/INFO]: ch[/115.135.0.228:61993] logged in with entity id 89873 at (563.5, 81.0, 297.5)
+[10:09:38] [Server thread/INFO]: ch joined the game
+[10:09:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2712ms behind, skipping 54 tick(s)
+[10:09:57] [Server thread/INFO]: zhi[/59.154.5.6:45032] logged in with entity id 90345 at (538.9537324647621, 63.875, 353.3355428650146)
+[10:09:57] [Server thread/INFO]: zhi joined the game
+[10:10:03] [Server thread/INFO]: <zhi> wat
+[10:10:09] [Server thread/INFO]: <ch> cb creeper in my room
+[10:10:40] [Server thread/INFO]: <zhi> wait ya, abit more instantjio
+[10:10:44] [Server thread/INFO]: <zhi> i msg jie
+[10:12:41] [Server thread/INFO]: <ch> holysheet he did all this?
+[10:14:14] [Server thread/INFO]: <ch> the fk got tunnel? you make one ahh?
+[10:15:30] [Server thread/INFO]: zhi lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:15:30] [Server thread/INFO]: zhi left the game
+[10:23:03] [Server thread/INFO]: zhi[/59.154.5.6:36185] logged in with entity id 97987 at (536.1529797540827, 63.0, 352.006080143003)
+[10:23:03] [Server thread/INFO]: zhi joined the game
+[10:23:09] [Server thread/INFO]: <zhi> no reply me eh
+[10:23:32] [Server thread/INFO]: <ch> dinner guaa
+[10:23:32] [Server thread/INFO]: <zhi> smooth ah?
+[10:23:38] [Server thread/INFO]: <ch> yeahh you?
+[10:23:44] [Server thread/INFO]: <zhi> so far ok
+[10:23:49] [Server thread/INFO]: <zhi> ping 140 though haha
+[10:23:54] [Server thread/INFO]: <ch> hahhaa
+[10:24:11] [Server thread/INFO]: <zhi> event can't list fker
+[10:24:21] [Server thread/INFO]: <ch> why :O
+[10:26:07] [Server thread/INFO]: <ch> ada torch?
+[10:27:05] [Server thread/INFO]: <zhi> ah fk it i just commit first
+[10:32:51] [Server thread/INFO]: ZhengqiHoo[/175.142.142.218:50601] logged in with entity id 106740 at (230.5, 71.0, 237.5)
+[10:32:51] [Server thread/INFO]: ZhengqiHoo joined the game
+[10:32:57] [Server thread/INFO]: <ch> wait ahh
+[10:33:19] [Server thread/INFO]: ZhengqiHoo has just earned the achievement [Taking Inventory]
+[10:33:28] [Server thread/INFO]: ZhengqiHoo has just earned the achievement [Getting Wood]
+[10:33:47] [Server thread/INFO]: <ch> fk night d
+[10:34:10] [Server thread/WARN]: ch moved wrongly!
+[10:34:13] [Server thread/INFO]: <ZhengqiHoo> why leh
+[10:34:16] [Server thread/INFO]: <ch> got zombie
+[10:34:22] [Server thread/INFO]: <ZhengqiHoo> ==
+[10:34:28] [Server thread/INFO]: <ZhengqiHoo> then how ah
+[10:34:37] [Server thread/INFO]: <ZhengqiHoo> wait morning ?
+[10:34:57] [Server thread/INFO]: <ch> mana you
+[10:34:59] [Server thread/INFO]: <ch> waitt
+[10:35:32] [Server thread/INFO]: <ch> mana youu
+[10:35:46] [Server thread/INFO]: <ch> you near water?
+[10:36:25] [Server thread/INFO]: ZhengqiHoo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[10:36:25] [Server thread/INFO]: ZhengqiHoo left the game
+[10:37:06] [Server thread/INFO]: ZhengqiHoo[/175.142.142.218:50626] logged in with entity id 113743 at (325.82589968860964, 66.0, 213.39223464697864)
+[10:37:06] [Server thread/INFO]: ZhengqiHoo joined the game
+[10:37:21] [Server thread/INFO]: <ZhengqiHoo> mana u
+[10:37:27] [Server thread/INFO]: <ch> i on top of tree
+[10:37:31] [Server thread/INFO]: <ch> at the starting there
+[10:37:35] [Server thread/INFO]: <ch> near water
+[10:37:54] [Server thread/INFO]: <ch> you leh?
+[10:39:29] [Server thread/INFO]: <ch> qi mana you?
+[10:39:34] [Server thread/INFO]: <ch> i go find you
+[10:41:11] [Server thread/INFO]: <ZhengqiHoo> i dont know leh how to see
+[10:41:16] [Server thread/INFO]: <ch> press f3
+[10:41:21] [Server thread/INFO]: <ch> see your XYZ
+[10:41:39] [Server thread/INFO]: <ch> mine is 184/74/279
+[10:41:47] [Server thread/INFO]: <ZhengqiHoo> 274 63 190
+[10:41:55] [Server thread/INFO]: <ch> okk i know where you d
+[10:42:01] [Server thread/INFO]: <ch> find a safe place hide awhile
+[10:42:02] [Server thread/INFO]: <ch> morning d
+[10:42:06] [Server thread/INFO]: <ch> the zombie dying
+[10:42:16] [Server thread/INFO]: <ZhengqiHoo> just know though is you, mana tau itu zombie take archer shoot me sial hahah
+[10:42:25] [Server thread/INFO]: <ch> HAHAHA
+[10:42:44] [Server thread/WARN]: zhi moved wrongly!
+[10:45:06] [Server thread/INFO]: <ch> press f3 again
+[10:46:50] [Server thread/INFO]: <ch> i ay your place d
+[10:46:52] [Server thread/INFO]: <ch> mana you
+[10:47:05] [Server thread/INFO]: <ZhengqiHoo> 279 65 181
+[10:47:14] [Server thread/INFO]: <ch> haah i dying
+[10:47:26] [Server thread/INFO]: <ZhengqiHoo> why my chat box cannot show when you type message d
+[10:47:40] [Server thread/INFO]: <ch> can ah
+[10:47:41] [Server thread/INFO]: <ZhengqiHoo> just now when you type can and i press enter it auto close
+[10:47:52] [Server thread/INFO]: <ch> press t to see again
+[10:47:56] [Server thread/INFO]: <ch> lai lai
+[10:47:58] [Server thread/INFO]: <ZhengqiHoo> must press t
+[10:48:05] [Server thread/INFO]: <ch> yeah must press
+[10:48:59] [Server thread/INFO]: <ch> you make ah?
+[10:49:38] [Server thread/INFO]: <ch> wait ahh irecover hp
+[10:49:42] [Server thread/INFO]: <ZhengqiHoo> dont know
+[10:49:46] [Server thread/INFO]: <ZhengqiHoo> okok
+[10:49:55] [Server thread/INFO]: <ZhengqiHoo> eh i go eat first
+[10:50:00] [Server thread/INFO]: <ch> waitt
+[10:50:05] [Server thread/INFO]: <ch> go base firstt
+[10:50:05] [Server thread/INFO]: <ZhengqiHoo> okok
+[10:51:01] [Server thread/INFO]: <ch> okk lai
+[10:51:40] [Server thread/INFO]: <ch> dont click on anything firstt later you eat back i brief you the controlss
+[10:51:47] [Server thread/INFO]: <ZhengqiHoo> okok
+[10:52:01] [Server thread/INFO]: <ch> spacebar
+[10:52:53] [Server thread/INFO]: <ch> here
+[10:53:02] [Server thread/INFO]: <ch> got open fence
+[10:53:02] [Server thread/INFO]: <ZhengqiHoo> hahaha why cannot
+[10:53:08] [Server thread/INFO]: <ch> dont jump d haha zhi kill you
+[10:53:11] [Server thread/INFO]: <ch> behind you
+[10:53:13] [Server thread/INFO]: <ZhengqiHoo> how to open
+[10:53:20] [Server thread/INFO]: <ch> behind you
+[10:53:43] [Server thread/INFO]: <ch> okk here safe
+[10:54:04] [Server thread/INFO]: <ZhengqiHoo> okok i go eat firsts later back and learn
+[10:54:13] [Server thread/INFO]: <ZhengqiHoo> can put heree no need close right
+[10:54:19] [Server thread/INFO]: <ch> yeahh
+[10:54:27] [Server thread/INFO]: <ZhengqiHoo> kk brb
+[10:54:34] [Server thread/INFO]: <zhi> okk done commit
+[10:54:45] [Server thread/INFO]: <zhi> lel why u guys here
+[10:54:46] [Server thread/INFO]: <ch> qi destroyed some of your farm HAAHHA
+[10:54:48] [Server thread/INFO]: <zhi> here safe haven
+[10:54:51] [Server thread/INFO]: <zhi> WHAT HWERE
+[10:55:04] [Server thread/INFO]: <ch> here
+[10:55:05] [Server thread/INFO]: <zhi> WHERE WHERE
+[10:55:20] [Server thread/INFO]: <zhi> WHER ESEED
+[10:55:26] [Server thread/INFO]: <ch> i put at the box d
+[10:55:39] [Server thread/INFO]: <zhi> fk i no hoe
+[10:56:19] [Server thread/INFO]: <zhi> ehh u took seeds again ah
+[10:56:24] [Server thread/INFO]: <ch> it came to me
+[10:56:28] [Server thread/INFO]: <zhi> give me
+[10:56:57] [Server thread/INFO]: <ch> got one more
+[10:56:58] [Server thread/INFO]: <zhi> i go pack stuff wait ahh
+[10:57:06] [Server thread/INFO]: <ch> okk
+[11:01:44] [Server thread/INFO]: <ch> i go eat also brb
+[11:21:03] [Server thread/INFO]: ZhengqiHoo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[11:21:03] [Server thread/INFO]: ZhengqiHoo left the game
+[11:23:03] [Server thread/INFO]: <zhi> asd
+[11:24:19] [Server thread/INFO]: ch lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[11:24:19] [Server thread/INFO]: ch left the game
+[12:06:41] [Server thread/INFO]: YJ[/175.143.251.20:50485] logged in with entity id 188543 at (563.0771929831873, 76.0, 321.8901041495102)
+[12:06:41] [Server thread/INFO]: YJ joined the game
+[12:06:47] [Server thread/INFO]: <YJ> how is it?
+[12:06:48] [Server thread/INFO]: <YJ> :D
+[12:24:59] [Server thread/INFO]: <zhi> asd
+[12:25:08] [Server thread/INFO]: <zhi> oh creeper gone
+[12:25:14] [Server thread/INFO]: <YJ> i killed
+[12:25:19] [Server thread/INFO]: <zhi> where is thy wondrous creation
+[12:25:43] [Server thread/INFO]: <zhi> lel nice
+[12:25:47] [Server thread/INFO]: <YJ> come
+[12:25:48] [Server thread/INFO]: <zhi> comfy
+[12:25:49] [Server thread/INFO]: <YJ> COME
+[12:25:57] [Server thread/INFO]: <YJ> our rooms
+[12:26:02] [Server thread/INFO]: <zhi> we 2 gay here?
+[12:26:12] [Server thread/INFO]: <YJ> our dungeon
+[12:26:18] [Server thread/INFO]: <zhi> nice
+[12:26:32] [Server thread/INFO]: <zhi> holy shet lololol
+[12:26:33] [Server thread/INFO]: <zhi> nice
+[12:26:35] [Server thread/INFO]: <YJ> this
+[12:26:41] [Server thread/INFO]: <zhi> i did it before few times
+[12:26:43] [Server thread/INFO]: <YJ> come
+[12:26:59] [Server thread/INFO]: <YJ> LOL
+[12:27:02] [Server thread/INFO]: <YJ> not cave sadly
+[12:27:11] [Server thread/INFO]: <zhi> we can excavate
+[12:27:14] [Server thread/INFO]: <zhi> just keep digging
+[12:27:15] [Server thread/INFO]: <YJ> ya
+[12:27:18] [Server thread/INFO]: <YJ> but
+[12:27:21] [Server thread/INFO]: <YJ> i did this alone
+[12:27:22] [Server thread/INFO]: <YJ> :<
+[12:27:26] [Server thread/INFO]: <YJ> i found cows
+[12:27:28] [Server thread/INFO]: <YJ> adn sugarcane
+[12:27:32] [Server thread/INFO]: <zhi> nice
+[12:27:49] [Server thread/INFO]: <YJ> there
+[12:28:03] [Server thread/INFO]: <YJ> but how to replant it
+[12:28:06] [Server thread/INFO]: <YJ> donth hit the middle parta/
+[12:28:54] [Server thread/INFO]: ch[/115.135.0.228:65124] logged in with entity id 207277 at (563.4494166784631, 81.0, 297.77890196962915)
+[12:28:54] [Server thread/INFO]: ch joined the game
+[12:29:02] [Server thread/INFO]: <ch> makan jap
+[12:29:25] [Server thread/INFO]: <zhi> go makan la lan
+[12:29:33] [Server thread/INFO]: ch lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:29:33] [Server thread/INFO]: ch left the game
+[12:31:29] [Server thread/INFO]: zhengqihoo[/175.142.142.218:50014] logged in with entity id 209600 at (238.5, 72.0, 235.5)
+[12:31:29] [Server thread/INFO]: zhengqihoo joined the game
+[12:32:03] [Server thread/INFO]: <zhengqihoo> eh why i am here geh
+[12:32:25] [Server thread/INFO]: zhengqihoo has just earned the achievement [Taking Inventory]
+[12:34:21] [Server thread/INFO]: zhengqihoo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:34:21] [Server thread/INFO]: zhengqihoo left the game
+[12:34:32] [Server thread/INFO]: zhengqihoo[/175.142.142.218:50025] logged in with entity id 215811 at (428.23817178797293, 62.0, 353.3000000119209)
+[12:34:32] [Server thread/INFO]: zhengqihoo joined the game
+[12:34:46] [Server thread/INFO]: <zhengqihoo> halo ?
+[12:35:35] [Server thread/INFO]: <YJ> hello
+[12:35:40] [Server thread/INFO]: <zhi> oh fk
+[12:35:42] [Server thread/INFO]: <zhi> dark d
+[12:35:48] [Server thread/INFO]: <zhi> IM SOMEWHERE ELSE
+[12:36:03] [Server thread/INFO]: <zhengqihoo> when i on is in middle of jungle
+[12:36:04] [Server thread/INFO]: <zhi> yoyo
+[12:36:05] [Server thread/INFO]: <YJ> i wanna plant
+[12:36:07] [Server thread/INFO]: <zhengqihoo> haha
+[12:36:08] [Server thread/INFO]: <YJ> sugarcane
+[12:36:09] [Server thread/INFO]: <zhi> but u here
+[12:36:15] [Server thread/INFO]: <zhi> plant where
+[12:36:15] [Server thread/INFO]: <zhengqihoo> i find so long
+[12:36:18] [Server thread/INFO]: <YJ> do i plant it next to yours
+[12:36:19] [Server thread/INFO]: <YJ> or mine
+[12:36:26] [Server thread/INFO]: <zhi> next to mine what
+[12:36:31] [Server thread/INFO]: <zhi> dont go lure the zombie
+[12:36:33] [Server thread/INFO]: <zhi> RUN
+[12:36:34] [Server thread/INFO]: <YJ> i expand youer
+[12:36:41] [Server thread/INFO]: <zhi> RUN
+[12:36:46] [Server thread/INFO]: <YJ> sleepa
+[12:36:53] [Server thread/INFO]: <zhi> I NO BED
+[12:36:53] [Server thread/INFO]: <YJ> wtf
+[12:37:04] [Server thread/INFO]: <zhi> WTF IS THIS
+[12:37:27] [Server thread/INFO]: <YJ> witch
+[12:37:30] [Server thread/INFO]: <zhengqihoo> wa how to get weapon
+[12:37:30] [Server thread/INFO]: <YJ> lai die
+[12:37:32] [Server thread/INFO]: <zhi> how tf he come in
+[12:37:32] [Server thread/INFO]: <zhengqihoo> haha
+[12:37:37] [Server thread/INFO]: <YJ> someone didnt close the doore
+[12:37:38] [Server thread/INFO]: <YJ> ..
+[12:37:44] [Server thread/INFO]: <zhi> wait brb i talking to my mom
+[12:37:46] [Server thread/INFO]: <YJ> sleep now
+[12:37:49] [Server thread/INFO]: <YJ> 2 bed here
+[12:37:50] [Server thread/INFO]: <YJ> 1 bed up
+[12:38:06] [Server thread/INFO]: <YJ> zhi sleep
+[12:38:16] [Server thread/INFO]: <YJ> ZHI
+[12:38:29] [Server thread/INFO]: <zhengqihoo> how to sleep ah sorry first time play
+[12:38:32] [Server thread/INFO]: <YJ> right click
+[12:38:38] [Server thread/INFO]: <YJ> on the bed
+[12:38:41] [Server thread/INFO]: <zhengqihoo> ok dy
+[12:38:41] [Server thread/INFO]: <YJ> wait for zhi
+[12:38:42] [Server thread/INFO]: <YJ> ZHI
+[12:38:44] [Server thread/INFO]: <zhengqihoo> thank you =D
+[12:38:53] [Server thread/INFO]: <YJ> he afk lel
+[12:39:02] [Server thread/INFO]: <zhi> I NO
+[12:39:02] [Server thread/INFO]: <zhengqihoo> == so fast afk
+[12:39:03] [Server thread/INFO]: <zhi> BED
+[12:39:05] [Server thread/INFO]: <zhengqihoo> lol
+[12:39:06] [Server thread/INFO]: <YJ> here la
+[12:39:07] [Server thread/INFO]: <zhengqihoo> hahah
+[12:39:07] [Server thread/INFO]: <zhi> i log off first
+[12:39:07] [Server thread/INFO]: <YJ> its here
+[12:39:09] [Server thread/INFO]: <YJ> its here
+[12:39:12] [Server thread/INFO]: <YJ> i boughti t up
+[12:39:20] [Server thread/INFO]: <zhi> qi? got bed?
+[12:39:23] [Server thread/INFO]: <zhi> ok nice
+[12:39:25] [Server thread/INFO]: <YJ> hos one
+[12:39:33] [Server thread/INFO]: <zhengqihoo> borrow up one
+[12:39:37] [Server thread/INFO]: <zhengqihoo> haha
+[12:41:22] [Server thread/INFO]: <zhengqihoo> eh paiseh why got zombie here == i press him now house got one lubang
+[12:49:17] [Server thread/INFO]: zhengqihoo has just earned the achievement [Getting Wood]
+[12:52:17] [Server thread/INFO]: ch[/115.135.0.228:65210] logged in with entity id 235241 at (518.3641943193983, 63.0, 295.31440891933926)
+[12:52:17] [Server thread/INFO]: ch joined the game
+[12:52:54] [Server thread/INFO]: <ch> mana orang
+[12:52:56] [Server thread/INFO]: <YJ> house
+[12:53:10] [Server thread/INFO]: <ch> go shoot zhi
+[12:53:12] [Server thread/INFO]: <ch> :D
+[12:53:13] [Server thread/INFO]: <YJ> okay
+[12:53:18] [Server thread/INFO]: <YJ> ho make a bed
+[12:53:20] [Server thread/INFO]: <YJ> for our new friend
+[12:53:29] [Server thread/INFO]: <ch> okk i nidda kill sheep
+[12:53:35] [Server thread/INFO]: <YJ> got wool liao
+[12:53:39] [Server thread/INFO]: <ch> 2 not enough
+[12:53:41] [Server thread/INFO]: <zhengqihoo> sorry ah finding how to play this
+[12:53:47] [Server thread/INFO]: <ch> slowly laa
+[12:53:55] [Server thread/INFO]: <YJ> its oaky i started yesterday also hah
+[12:53:58] [Server thread/INFO]: <ch> starting i lagi blur HAHA
+[12:54:05] [Server thread/INFO]: <zhengqihoo> just now i boom one lubang leh
+[12:54:12] [Server thread/INFO]: <zhengqihoo> cause got zombie
+[12:54:18] [Server thread/INFO]: <ch> ohh lemme introduce this is ying jie and this is zheng qi
+[12:54:22] [Server thread/INFO]: <zhengqihoo> ten dont know how to build back
+[12:54:22] [Server thread/INFO]: <YJ> hello
+[12:54:28] [Server thread/INFO]: <zhengqihoo> hi nice to meet you
+[12:54:35] [Server thread/INFO]: <YJ> zhi's primary school friend
+[12:54:36] [Server thread/INFO]: <ch> meet lan ah
+[12:54:41] [Server thread/INFO]: <zhengqihoo> hahaha
+[12:54:42] [Server thread/INFO]: <ch> so formal hahaha
+[12:54:43] [Server thread/INFO]: <YJ> ho's secdonary school friend
+[12:54:46] [Server thread/INFO]: <zhengqihoo> you intro ma
+[12:54:51] [Server thread/INFO]: <zhengqihoo> so meet la
+[12:54:53] [Server thread/INFO]: <YJ> both close bros
+[12:55:06] [Server thread/INFO]: <ch> qi lai your bed
+[12:55:25] [Server thread/INFO]: <ch> lai lai
+[12:55:40] [Server thread/INFO]: <ch> put your bed here
+[12:55:45] [Server thread/INFO]: <ch> right click
+[12:55:54] [Server thread/INFO]: <ch> left click it to hit things
+[12:56:02] [Server thread/INFO]: <ch> right click is like action
+[12:56:02] [Server thread/INFO]: <YJ> sleep
+[12:56:13] [Server thread/INFO]: <ch> right click your bed to sleep
+[12:56:14] [Server thread/INFO]: <YJ> ho bring your beddown
+[12:56:18] [Server thread/INFO]: <ch> okk
+[12:56:22] [Server thread/INFO]: <zhengqihoo> yeah now slee p
+[12:56:31] [Server thread/INFO]: <YJ> sleep
+[12:56:55] [Server thread/INFO]: <ch> zhi breadd
+[12:56:58] [Server thread/INFO]: <YJ> he afk
+[12:57:03] [Server thread/INFO]: <ch> dmann
+[12:57:20] [Server thread/INFO]: <zhengqihoo> how to cllect stone
+[12:57:20] [Server thread/INFO]: <ch> anything you wanna do, like action use right click
+[12:57:30] [Server thread/INFO]: <zhengqihoo> i wan build back the hole i do
+[12:57:32] [Server thread/INFO]: <zhengqihoo> ahaha
+[12:57:36] [Server thread/INFO]: <ch> you wanna hit things hold left click
+[12:57:41] [Server thread/INFO]: <ch> mana?
+[12:57:46] [Server thread/INFO]: <zhengqihoo> lai
+[12:57:50] [Server thread/INFO]: <ch> hit stone you nidda make equipment
+[12:57:57] [Server thread/INFO]: <ch> can google
+[12:58:00] [Server thread/INFO]: <zhengqihoo> behind
+[12:58:20] [Server thread/INFO]: <ch> wtf creeper?
+[12:58:33] [Server thread/INFO]: <ch> nono not like this
+[12:58:36] [Server thread/INFO]: <ch> you open inventory
+[12:58:42] [Server thread/INFO]: <ch> see the crafting
+[12:58:44] [Server thread/INFO]: <zhengqihoo> e right
+[12:58:50] [Server thread/INFO]: <ch> put the wood at the crafting
+[12:58:56] [Server thread/INFO]: <ch> then take splank
+[12:59:02] [Server thread/INFO]: <ch> plank*
+[12:59:14] [Server thread/INFO]: <ch> wait
+[12:59:30] [Server thread/INFO]: <ch> need more
+[13:00:01] [Server thread/INFO]: <zhengqihoo> can take the item ah i saw stone axe
+[13:00:18] [Server thread/INFO]: <ch> yeah pickaxe it to break stone
+[13:00:30] [Server thread/INFO]: <ch> axe is for chopping tree
+[13:00:38] [Server thread/INFO]: <zhengqihoo> do i need weapon ?
+[13:00:45] [Server thread/INFO]: <zhi> JUST FINISHED PACKING STUFF I GO BATH BRB
+[13:00:45] [Server thread/INFO]: <ch> nah take
+[13:00:55] [Server thread/INFO]: <ch> eh no stone d ahh?
+[13:01:00] [Server thread/INFO]: <YJ> got
+[13:01:02] [Server thread/INFO]: <zhi> i off sin so u guys can sleep
+[13:01:04] [Server thread/INFO]: <YJ> check left side boxs
+[13:01:04] [Server thread/INFO]: <zhengqihoo> i go collect la
+[13:01:09] [Server thread/INFO]: zhi lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:01:09] [Server thread/INFO]: zhi left the game
+[13:01:16] [Server thread/INFO]: <ch> oh got
+[13:01:50] [Server thread/WARN]: YJ moved wrongly!
+[13:02:48] [Server thread/INFO]: <YJ> get used to the positional of each items ahaha
+[13:02:54] [Server thread/INFO]: <ch> yeahhh
+[13:03:00] [Server thread/INFO]: <ch> can put sign board if you want xD
+[13:03:04] [Server thread/INFO]: <YJ> help do
+[13:03:39] [Server thread/INFO]: <YJ> zhi how to
+[13:03:42] [Server thread/INFO]: <YJ> make wheat seed
+[13:03:43] [Server thread/INFO]: <YJ> ho?
+[13:05:02] [Server thread/INFO]: <ch> okk make the board d on left side, third
+[13:05:12] [Server thread/INFO]: <ch> wheat ahh
+[13:05:30] [Server thread/INFO]: <ch> i think nidda harvest
+[13:06:01] [Server thread/INFO]: <ch> wah got cave under us?
+[13:06:26] [Server thread/INFO]: <YJ> ya hah
+[13:06:36] [Server thread/INFO]: <ch> we nidda build a fence here
+[13:06:50] [Server thread/INFO]: <YJ> help me gather wood
+[13:06:55] [Server thread/INFO]: <ch> okk
+[13:06:56] [Server thread/INFO]: <YJ> i'll do the farm for sheeps
+[13:07:05] [Server thread/INFO]: <zhengqihoo> wood all tree boleh kan
+[13:07:06] [Server thread/INFO]: <ch> gonna be night d sleep first
+[13:07:18] [Server thread/INFO]: <ch> cut the normal brown one
+[13:07:21] [Server thread/INFO]: <ch> lateer i show ou
+[13:07:22] [Server thread/INFO]: <YJ> ya
+[13:07:27] [Server thread/INFO]: <YJ> sleeeep
+[13:07:40] [Server thread/INFO]: <ch> qi wherre you
+[13:07:41] [Server thread/INFO]: <YJ> sleeep
+[13:07:44] [Server thread/INFO]: <zhengqihoo> comin gbacl
+[13:08:32] [Server thread/INFO]: <ch> take axe
+[13:08:49] [Server thread/INFO]: <ch> you got axe?
+[13:08:56] [Server thread/INFO]: <zhengqihoo> ada
+[13:09:00] [Server thread/INFO]: <ch> how many?
+[13:09:06] [Server thread/INFO]: <zhengqihoo> 2
+[13:09:45] [Server thread/INFO]: <ch> okk jomm
+[13:09:51] [Server thread/INFO]: <ch> weih dont eat raw meat
+[13:11:03] [Server thread/INFO]: <ch> this kind of wood
+[13:11:06] [Server thread/INFO]: <ch> but go far abit
+[13:11:46] [Server thread/INFO]: <ch> sini okk
+[13:12:00] [Server thread/INFO]: <ch> chop d it will drop sappling, small tree
+[13:12:08] [Server thread/INFO]: <ch> collect that ahh nidda replant trees
+[13:14:11] [Server thread/INFO]: <YJ> got spider
+[13:14:12] [Server thread/INFO]: <YJ> lol
+[13:14:15] [Server thread/INFO]: <ch> mana?
+[13:14:21] [Server thread/INFO]: <YJ> house
+[13:14:23] [Server thread/INFO]: <ch> gg
+[13:14:25] [Server thread/INFO]: <zhengqihoo> ==
+[13:14:27] [Server thread/INFO]: <YJ> killed
+[13:14:30] [Server thread/INFO]: <ch> nice hhaah
+[13:14:52] [Server thread/INFO]: <zhengqihoo> just now i simply run also spider come out from groud hole
+[13:15:08] [Server thread/INFO]: <ch> they can climb very cb one
+[13:15:50] [Server thread/INFO]: <zhengqihoo> max 64 unit ah
+[13:15:54] [Server thread/INFO]: <ch> yeah
+[13:15:58] [Server thread/INFO]: <ch> one stack 64
+[13:16:11] [Server thread/INFO]: <ch> dont go too far ah lateer you sesat
+[13:16:19] [Server thread/INFO]: <zhengqihoo> go back put
+[13:16:31] [Server thread/INFO]: <ch> cut first
+[13:16:36] [Server thread/INFO]: <ch> later only go back
+[13:17:51] [Server thread/INFO]: <zhengqihoo> mau night liao ?
+[13:18:03] [Server thread/INFO]: <ch> yeah
+[13:18:25] [Server thread/INFO]: zhi[/59.154.5.6:32699] logged in with entity id 267266 at (579.6999999880791, 76.0, 346.69999998807907)
+[13:18:25] [Server thread/INFO]: zhi joined the game
+[13:18:28] [Server thread/INFO]: zhi lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:18:28] [Server thread/INFO]: zhi left the game
+[13:19:23] [Server thread/INFO]: <ch> qi dont chop near our house one hahaha
+[13:19:29] [Server thread/INFO]: <ch> lateer bo tree d
+[13:19:41] [Server thread/INFO]: <YJ> sleep?
+[13:20:05] [Server thread/INFO]: <YJ> need food
+[13:20:06] [Server thread/INFO]: <YJ> hahah
+[13:20:09] [Server thread/INFO]: <ch> samee
+[13:20:16] [Server thread/INFO]: <YJ> our cook is
+[13:20:17] [Server thread/INFO]: <YJ> mia
+[13:20:19] [Server thread/INFO]: <YJ> lol
+[13:20:36] [Server thread/INFO]: <zhengqihoo> wood lagi oka?
+[13:20:37] [Server thread/INFO]: <ch> jie lai
+[13:21:03] [Server thread/INFO]: <YJ> :3
+[13:21:05] [Server thread/INFO]: <YJ> lai liao
+[13:21:33] [Server thread/INFO]: <YJ> tahsnk
+[13:21:36] [Server thread/INFO]: <ch> no probss
+[13:23:59] [Server thread/INFO]: <zhengqihoo> eh i off dy, mau prepare go hotel liao. company got provide hotel for work this weekded
+[13:24:06] [Server thread/INFO]: <ch> okk
+[13:24:13] [Server thread/INFO]: zhengqihoo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:24:13] [Server thread/INFO]: zhengqihoo left the game
+[13:28:47] [Server thread/INFO]: YJ lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:28:47] [Server thread/INFO]: YJ left the game
+[13:30:11] [Server thread/INFO]: zhi[/59.154.5.6:63400] logged in with entity id 282962 at (579.6999999880791, 76.0, 346.69999998807907)
+[13:30:11] [Server thread/INFO]: zhi joined the game
+[13:30:18] [Server thread/INFO]: <zhi> ladies and gentleman im back
+[13:30:20] [Server thread/INFO]: <zhi> missed me?
+[13:30:22] [Server thread/INFO]: <zhi> no right?
+[13:30:26] [Server thread/INFO]: <ch> only me left
+[13:30:28] [Server thread/INFO]: <zhi> oh shit only hoho
+[13:30:29] [Server thread/INFO]: <zhi> wtf
+[13:30:33] [Server thread/INFO]: <zhi> i should have pressed tab first
+[13:30:38] [Server thread/INFO]: <ch> LOL
+[13:30:43] [Server thread/INFO]: YJ[/210.195.89.205:51772] logged in with entity id 284598 at (419.62349145026224, 63.0, 262.5326518937566)
+[13:30:43] [Server thread/INFO]: YJ joined the game
+[13:30:49] [Server thread/INFO]: <zhi> where qi go
+[13:30:54] [Server thread/INFO]: <ch> he go hotel worr
+[13:30:58] [Server thread/INFO]: <zhi> hotel!?!?!?
+[13:31:00] [Server thread/INFO]: <ch> his work provide him hotel
+[13:31:01] [Server thread/INFO]: <zhi> HOTEL!?!?!?
+[13:31:06] [Server thread/INFO]: <zhi> what work
+[13:31:17] [Server thread/INFO]: <ch> sales work lor
+[13:31:21] [Server thread/INFO]: <zhi> why is there an extension to my farm
+[13:32:02] [Server thread/INFO]: <zhi> SHEEPS
+[13:32:08] [Server thread/INFO]: <zhi> got the cut fur tool?
+[13:32:17] [Server thread/INFO]: <ch> nope
+[13:32:22] [Server thread/INFO]: <ch> but got iron
+[13:32:40] [Server thread/INFO]: <ch> eh
+[13:32:43] [Server thread/INFO]: <ch> your seed
+[13:32:53] [Server thread/INFO]: <zhi> why so much
+[13:32:57] [Server thread/INFO]: <zhi> whr get
+[13:33:02] [Server thread/INFO]: <ch> i go cut grass while chopping trees
+[13:33:05] [Server thread/INFO]: <zhi> whats this
+[13:33:08] [Server thread/INFO]: <zhi> empty space
+[13:33:11] [Server thread/INFO]: <ch> dunnno
+[13:33:13] [Server thread/INFO]: <ch> lava gua
+[13:33:14] [Server thread/INFO]: <zhi> whr did the lava go
+[13:33:21] [Server thread/INFO]: <ch> no idea LOL
+[13:33:22] [Server thread/INFO]: <zhi> we go make cobblestone generator
+[13:33:28] [Server thread/INFO]: <ch> ._.
+[13:33:35] [Server thread/INFO]: <zhi> wow
+[13:33:36] [Server thread/INFO]: <YJ> sleep
+[13:33:37] [Server thread/INFO]: <ch> damn nice
+[13:33:38] [Server thread/INFO]: <zhi> nice sial
+[13:33:45] [Server thread/INFO]: <ch> jie is too dedicated :D
+[13:33:48] [Server thread/INFO]: <ch> i laikk
+[13:33:49] [Server thread/INFO]: <zhi> ying jie should study architecture and interior design lel
+[13:34:02] [Server thread/INFO]: <YJ> sleep
+[13:34:06] [Server thread/INFO]: <zhi> NO BED
+[13:34:12] [Server thread/INFO]: <YJ> in ourroom la
+[13:34:13] [Server thread/INFO]: <YJ> diao
+[13:34:18] [Server thread/INFO]: <zhi> NOT IN OUR ROOM
+[13:34:21] [Server thread/INFO]: <YJ> i need room
+[13:34:28] [Server thread/INFO]: <zhi> why hoho here
+[13:34:30] [Server thread/INFO]: <YJ> i need food
+[13:34:31] [Server thread/INFO]: <YJ> FAST
+[13:34:31] [Server thread/INFO]: <zhi> i tot hoho CEO on top
+[13:34:33] [Server thread/INFO]: <YJ> FAST
+[13:34:44] [Server thread/INFO]: <zhi> food at my farm chest LOL
+[13:34:51] [Server thread/INFO]: <ch> so far diu
+[13:35:25] [Server thread/INFO]: <zhi> i go get foods from farm
+[13:35:30] [Server thread/INFO]: <zhi> wheat*
+[13:35:49] [Server thread/INFO]: <zhi> so much eggs lel
+[13:35:49] [Server thread/INFO]: <ch> oh i saw pigs and donky
+[13:35:54] [Server thread/INFO]: <ch> i tamed on donkey
+[13:35:54] [Server thread/INFO]: <YJ> wher
+[13:35:58] [Server thread/INFO]: <ch> here
+[13:38:39] [Server thread/INFO]: <YJ> gimme wheet
+[13:38:48] [Server thread/INFO]: <YJ> fast
+[13:39:01] [Server thread/INFO]: <YJ> tq
+[13:39:16] [Server thread/INFO]: <zhi> thy harvest god blesses u
+[13:39:26] [Server thread/INFO]: <zhi> WITH PROSPERITY
+[13:39:35] [Server thread/INFO]: <ch> stop being high on wheat ._.
+[13:39:39] [Server thread/INFO]: <ch> its wheat not weed
+[13:39:52] [Server thread/INFO]: <zhi> nay
+[13:39:58] [Server thread/INFO]: <zhi> u commoners know not the worth of wheat
+[13:40:18] [Server thread/INFO]: <ch> commoners are the ones who know the real worth of wheat ._.
+[13:40:28] [Server thread/INFO]: <zhi> SILENCE
+[13:40:34] [Server thread/INFO]: <zhi> i will not be lectured by a commoner
+[13:40:41] [Server thread/INFO]: <ch> you just did
+[13:40:57] [Server thread/INFO]: <zhi> nay
+[13:41:01] [Server thread/INFO]: <zhi> what you did was nothing
+[13:41:13] [Server thread/INFO]: <ch> what i did was nothing but what you did was getting lectured
+[13:41:21] [Server thread/INFO]: <ch> by a commoner
+[13:41:40] [Server thread/INFO]: <zhi> commoners nowadays have to learn their place and stop typing too much
+[13:41:57] [Server thread/INFO]: <zhi> or they will be cursed by the harvest god
+[13:42:24] [Server thread/INFO]: <zhi> lel watch fate kaleid ilya d?
+[13:42:29] [Server thread/INFO]: <ch> haven deih
+[13:42:38] [Server thread/WARN]: YJ moved wrongly!
+[13:42:38] [Server thread/INFO]: <ch> watch bokura d?
+[13:42:41] [Server thread/INFO]: <zhi> edelfelt speech stylez
+[13:42:46] [Server thread/INFO]: <zhi> watched 5 epi
+[13:42:51] [Server thread/INFO]: <ch> aiya
+[13:42:53] [Server thread/INFO]: <zhi> downloading put in my phone bring to sydney watch
+[13:42:55] [Server thread/INFO]: <zhi> HAHAHA
+[13:42:57] [Server thread/INFO]: <ch> LOLOL
+[13:42:59] [Server thread/INFO]: <zhi> but
+[13:43:02] [Server thread/INFO]: <zhi> kissanime down
+[13:43:05] [Server thread/INFO]: <ch> HAHAHA
+[13:43:11] [Server thread/INFO]: <zhi> only dl-ed 5 epi more
+[13:43:20] [Server thread/INFO]: <ch> when are we going on adventure? :/
+[13:43:32] [Server thread/INFO]: <zhi> work 6 months
+[13:43:34] [Server thread/INFO]: <zhi> we go japan
+[13:43:39] [Server thread/INFO]: <ch> ok :(
+[13:43:46] [Server thread/INFO]: <ch> but i mean minecraft
+[13:43:51] [Server thread/INFO]: <zhi> right okay bruh
+[13:44:27] [Server thread/INFO]: <zhi> bokura gal so leng
+[13:44:28] [Server thread/INFO]: <zhi> <3
+[13:44:32] [Server thread/INFO]: <ch> yeahhh
+[13:44:38] [Server thread/INFO]: <zhi> first time main girl is my taste
+[13:44:47] [Server thread/INFO]: <zhi> usually i pick dead end girl
+[13:44:47] [Server thread/INFO]: <ch> ~.~
+[13:44:57] [Server thread/INFO]: <ch> this one dead end guy HAHA
+[13:45:47] [Server thread/INFO]: <zhi> oh ya
+[13:45:56] [Server thread/INFO]: <zhi> hoho later i give u the server credentials
+[13:46:10] [Server thread/INFO]: <zhi> so if jie wanna play he can still play
+[13:46:16] [Server thread/INFO]: <ch> okk
+[13:46:17] [Server thread/INFO]: <zhi> holy FVK ZOMBIES
+[13:46:26] [Server thread/WARN]: ch moved wrongly!
+[13:46:41] [Server thread/INFO]: <zhi> fall into my water trap u plebians
+[13:46:47] [Server thread/INFO]: <zhi> HAHAHAHAHAHAHAHAhAHA
+[13:46:56] [Server thread/INFO]: <YJ> sleeepw
+[13:47:02] [Server thread/INFO]: <ch> jie like robot HAAHAHA
+[13:47:05] [Server thread/INFO]: <zhi> PLANTING SEEDS LA
+[13:47:10] [Server thread/INFO]: <ch> sleep wake up lure animals
+[13:47:12] [Server thread/INFO]: <zhi> OVERTIME WORK
+[13:47:14] [Server thread/INFO]: <ch> repeat
+[13:47:25] [Server thread/INFO]: <zhi> U THINK THE FARMING INDUSTRY IS EASY??
+[13:47:40] [Server thread/INFO]: <ch> yeah with machine
+[13:47:52] [Server thread/INFO]: <zhi> FARMING INDUSTRY IN MINECRAFT BRO
+[13:48:01] [Server thread/INFO]: <zhi> I SELL BREADS FOR A LIVING
+[13:48:02] [Server thread/INFO]: <zhi> OKAY
+[13:48:09] [Server thread/INFO]: <ch> anything you can make in real life you can make in minecraft
+[13:48:12] [Server thread/INFO]: <ch> make believe
+[13:48:23] [Server thread/INFO]: <zhi> NO MACHINES TO HELP ME HERE
+[13:48:28] [Server thread/INFO]: <YJ> fast
+[13:48:29] [Server thread/INFO]: <YJ> lad
+[13:48:30] [Server thread/INFO]: <ch> then build one ._.
+[13:48:47] [Server thread/INFO]: <zhi> the eggs throw into the river kay
+[13:48:51] [Server thread/INFO]: <zhi> dont throw inside dy
+[13:48:52] [Server thread/INFO]: <ch> why
+[13:49:00] [Server thread/INFO]: <zhi> let the river be filled with chickens
+[13:49:04] [Server thread/INFO]: <ch> ~.~ ok
+[13:49:20] [Server thread/INFO]: <zhi> and the harvest god will be pleased
+[13:50:50] [Server thread/INFO]: <zhi> WHO ARE U TO BOTHER THE HARVEST
+[13:50:58] [Server thread/INFO]: <ch> human
+[13:51:09] [Server thread/INFO]: <ch> if i open this ah
+[13:51:14] [Server thread/INFO]: <zhi> the harvest is a sacred process
+[13:51:15] [Server thread/INFO]: <ch> will the water comes in?
+[13:51:21] [Server thread/INFO]: <zhi> and must be dealt with by the harvester, in solitary
+[13:51:24] [Server thread/INFO]: <zhi> dont
+[13:51:25] [Server thread/INFO]: <zhi> fking
+[13:51:27] [Server thread/INFO]: <zhi> open
+[13:51:29] [Server thread/INFO]: <ch> :D
+[13:51:45] [Server thread/INFO]: <zhi> FKER U DESTOYED ONE PATCH OF LAND
+[13:51:49] [Server thread/INFO]: <ch> ._>
+[13:51:51] [Server thread/INFO]: <zhi> THE HARVEST GOD IS NOT PLEASED
+[13:52:20] [Server thread/INFO]: <zhi> zombies swimming
+[13:52:33] [Server thread/INFO]: <zhi> ye im done
+[13:52:35] [Server thread/INFO]: <zhi> i shall sleep
+[13:52:39] [Server thread/INFO]: <ch> jieee
+[13:52:39] [Server thread/INFO]: <zhi> wait no
+[13:52:42] [Server thread/INFO]: <zhi> WHERE M YBED
+[13:52:43] [Server thread/INFO]: <ch> zombies
+[13:52:46] [Server thread/INFO]: <ch> run
+[13:52:46] [Server thread/INFO]: <zhi> MY FARM BED T.T
+[13:52:56] [Server thread/INFO]: <zhi> HAHA GET CHASED
+[13:53:09] [Server thread/INFO]: <YJ> sleep la
+[13:53:09] [Server thread/INFO]: <YJ> lai
+[13:53:10] [Server thread/INFO]: <zhi> i no bed here fker
+[13:53:14] [Server thread/INFO]: <YJ> zho
+[13:53:16] [Server thread/INFO]: <YJ> COME UP LA
+[13:53:17] [Server thread/INFO]: <YJ> diao
+[13:53:23] [Server thread/INFO]: <zhi> outside zombie
+[13:53:26] [Server thread/INFO]: <zhi> im trapped
+[13:53:27] [Server thread/INFO]: <YJ> RUN
+[13:53:32] [Server thread/INFO]: <ch> morning d
+[13:53:33] [Server thread/INFO]: <zhi> zombies in river
+[13:53:44] [Server thread/INFO]: <zhi> make one more bed
+[13:53:46] [Server thread/INFO]: <zhi> put here
+[13:53:56] [Server thread/INFO]: <zhi> cut fur from sheep dont kill it
+[13:54:06] [Server thread/INFO]: <zhi> did u feed the wheat to the sheep and let them mate/
+[13:54:07] [Server thread/INFO]: <ch> bucket mana?
+[13:54:11] [Server thread/INFO]: <zhi> bucket sini
+[13:54:14] [Server thread/INFO]: <zhi> farm chest
+[13:54:20] [Server thread/INFO]: <ch> bagi i go take lava
+[13:54:27] [Server thread/INFO]: <zhi> lai
+[13:54:30] [Server thread/INFO]: <zhi> take
+[13:54:32] [Server thread/INFO]: <zhi> making bread
+[13:55:07] [Server thread/INFO]: <zhi> who wanted food
+[13:55:32] [Server thread/INFO]: <zhi> u need food?
+[13:55:38] [Server thread/INFO]: <ch> nope got d
+[13:55:49] [Server thread/INFO]: <zhi> jie doing what
+[13:55:56] [Server thread/INFO]: <zhi> why are u in charge of the farms now
+[13:56:07] [Server thread/INFO]: <zhi> farming is my sacred duty
+[13:56:12] [Server thread/INFO]: <zhi> u cant just barge in
+[13:56:20] [Server thread/INFO]: <zhi> answer me
+[13:56:28] [Server thread/INFO]: <zhi> wtf dont ignore me
+[13:56:51] [Server thread/INFO]: <zhi> WOI TELL ME
+[13:56:55] [Server thread/INFO]: <YJ> yuo slow
+[13:57:01] [Server thread/INFO]: <YJ> dont know how to expand
+[13:57:04] [Server thread/INFO]: <YJ> from peasent food
+[13:57:08] [Server thread/INFO]: <ch> HAHAH
+[13:57:12] [Server thread/INFO]: <zhi> u got potato mehh
+[13:57:14] [Server thread/INFO]: <zhi> or carrot
+[13:57:26] [Server thread/INFO]: <zhi> WOI
+[13:57:57] [Server thread/INFO]: <YJ> wei
+[13:57:58] [Server thread/INFO]: <YJ> dont la
+[13:58:03] [Server thread/INFO]: <ch> zhi bo discord?
+[13:58:03] [Server thread/INFO]: <zhi> answer me :C
+[13:58:13] [Server thread/INFO]: <zhi> i tot u guys no join
+[13:58:17] [Server thread/INFO]: <YJ> lol
+[14:15:47] [Server thread/INFO]: ch has just earned the achievement [Monster Hunter]
+[14:27:49] [Server thread/INFO]: zhi was slain by Enderman
+[14:34:10] [Server thread/WARN]: YJ moved wrongly!
+[14:41:55] [Server thread/INFO]: YJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:41:55] [Server thread/INFO]: YJ left the game
+[14:42:30] [Server thread/INFO]: zhi lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:42:30] [Server thread/INFO]: zhi left the game
+[14:45:20] [Server thread/INFO]: ch lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:45:20] [Server thread/INFO]: ch left the game
+[15:05:16] [Server thread/INFO]: YJ[/210.195.89.205:52155] logged in with entity id 370939 at (576.0429376596546, 76.0, 334.7717933649986)
+[15:05:16] [Server thread/INFO]: YJ joined the game
+[15:55:32] [Server thread/INFO]: YJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:55:32] [Server thread/INFO]: YJ left the game
+[17:02:59] [Server thread/INFO]: YJ[/210.195.89.205:52495] logged in with entity id 408393 at (489.3260770440031, 63.0, 369.6563538145536)
+[17:02:59] [Server thread/INFO]: YJ joined the game
+[17:15:15] [Server thread/INFO]: YJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:15:15] [Server thread/INFO]: YJ left the game
+[18:01:10] [Server thread/INFO]: TendonRibs[/115.132.112.221:58136] logged in with entity id 415676 at (248.5, 68.0, 251.5)
+[18:01:10] [Server thread/INFO]: TendonRibs joined the game
+[18:02:25] [Server thread/INFO]: YJ[/210.195.89.205:52623] logged in with entity id 416887 at (495.1266161861477, 63.0, 343.4441726152622)
+[18:02:25] [Server thread/INFO]: YJ joined the game
+[18:03:06] [Server thread/INFO]: <YJ> type here
+[18:03:17] [Server thread/INFO]: <TendonRibs> asdsad
+[18:04:08] [Server thread/INFO]: <TendonRibs> mana you
+[18:05:01] [Server thread/INFO]: <TendonRibs> where u
+[18:05:22] [Server thread/INFO]: <YJ> you log out
+[18:05:25] [Server thread/INFO]: <YJ> i sleep 1st
+[18:05:28] [Server thread/INFO]: <YJ> easier
+[18:05:45] [Server thread/INFO]: <YJ> f3
+[18:05:47] [Server thread/INFO]: <YJ> press f3
+[18:05:53] [Server thread/INFO]: <YJ> see xyz coordination
+[18:06:03] [Server thread/INFO]: <TendonRibs> wait ar
+[18:06:04] [Server thread/INFO]: <YJ> im at 550 76 330
+[18:07:48] [Server thread/INFO]: <YJ> find?
+[18:08:02] [Server thread/INFO]: <YJ> cb
+[18:08:03] [Server thread/INFO]: <TendonRibs> yer
+[18:08:06] [Server thread/INFO]: <TendonRibs> ur base so ugly
+[18:08:28] [Server thread/INFO]: <YJ> cb
+[18:08:30] [Server thread/INFO]: <YJ> i build this
+[18:08:34] [Server thread/INFO]: <YJ> 95%
+[18:08:35] [Server thread/INFO]: <YJ> ..
+[18:08:39] [Server thread/INFO]: <YJ> go in and see :D
+[18:08:48] [Server thread/INFO]: TendonRibs has just earned the achievement [Taking Inventory]
+[18:09:03] [Server thread/INFO]: <TendonRibs> this one creative or survival
+[18:09:10] [Server thread/INFO]: <YJ> no idea
+[18:09:12] [Server thread/INFO]: <YJ> wahts the diff?
+[18:09:21] [Server thread/INFO]: <TendonRibs> survival is u have to harvest the blocks
+[18:09:25] [Server thread/INFO]: <TendonRibs> and make them
+[18:09:32] [Server thread/INFO]: <YJ> beautiful right
+[18:09:32] [Server thread/INFO]: <TendonRibs> creative is u got unlimited
+[18:09:35] [Server thread/INFO]: <TendonRibs> and can fly
+[18:09:37] [Server thread/INFO]: <YJ> oh i harvest
+[18:09:42] [Server thread/INFO]: <YJ> so survival
+[18:09:45] [Server thread/INFO]: <TendonRibs> diu lo
+[18:09:53] [Server thread/INFO]: <TendonRibs> if i can get my old files
+[18:09:53] [Server thread/INFO]: <YJ> the amount of time spent
+[18:09:54] [Server thread/INFO]: <YJ> :D
+[18:09:58] [Server thread/INFO]: <TendonRibs> i show u my mansion
+[18:10:00] [Server thread/INFO]: <YJ> go gear up
+[18:10:02] [Server thread/INFO]: <TendonRibs> wait ar
+[18:10:06] [Server thread/INFO]: <YJ> we go hunting for new stuff
+[18:10:07] [Server thread/INFO]: <TendonRibs> i think i got the files
+[18:10:10] [Server thread/INFO]: <YJ> LOL
+[18:10:23] [Server thread/INFO]: <TendonRibs> i must lanci u
+[18:10:30] [Server thread/WARN]: TendonRibs moved wrongly!
+[18:10:31] [Server thread/WARN]: TendonRibs moved wrongly!
+[18:10:35] [Server thread/INFO]: <TendonRibs> wait ar
+[18:13:11] [Server thread/INFO]: <YJ> wtf you doing
+[18:13:12] [Server thread/INFO]: <YJ> lol
+[18:13:18] [Server thread/INFO]: <YJ> come
+[18:16:32] [Server thread/INFO]: <YJ> wtf you doing lol
+[18:17:22] [Server thread/INFO]: <TendonRibs> ok
+[18:17:25] [Server thread/INFO]: <TendonRibs> coming
+[18:17:28] [Server thread/INFO]: <TendonRibs> where u
+[18:17:31] [Server thread/INFO]: <YJ> farm
+[18:17:45] [Server thread/INFO]: <YJ> gonna night d
+[18:17:50] [Server thread/INFO]: <YJ> sleep 1st only go
+[18:17:50] [Server thread/INFO]: <YJ> :D
+[18:17:59] [Server thread/INFO]: <TendonRibs> here day wor
+[18:18:16] [Server thread/INFO]: <TendonRibs> wait ar
+[18:18:20] [Server thread/INFO]: <TendonRibs> i restart minecraft
+[18:18:25] [Server thread/INFO]: TendonRibs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:18:25] [Server thread/INFO]: TendonRibs left the game
+[18:26:53] [Server thread/INFO]: YJ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:26:53] [Server thread/INFO]: YJ left the game
+[18:28:19] [Server thread/INFO]: YJ[/210.195.89.205:52653] logged in with entity id 440021 at (458.37346246010407, 59.0, 325.5439684880627)
+[18:28:19] [Server thread/INFO]: YJ joined the game
+[18:31:01] [Server thread/INFO]: YJ was slain by Zombie
+[18:33:31] [Server thread/INFO]: YJ was shot by Skeleton
+[18:41:14] [Server thread/INFO]: TendonRibs[/115.132.112.221:60123] logged in with entity id 449824 at (540.3508483463102, 75.0, 325.66286782210994)
+[18:41:14] [Server thread/INFO]: TendonRibs joined the game
+[18:42:46] [Server thread/INFO]: TendonRibs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:42:46] [Server thread/INFO]: TendonRibs left the game
+[19:01:15] [Server thread/INFO]: YJ has just earned the achievement [Acquire Hardware]
+[19:16:12] [Server thread/INFO]: YJ has just earned the achievement [DIAMONDS!]
+[19:57:22] [Server thread/INFO]: YJ tried to swim in lava
+[21:27:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2532ms behind, skipping 50 tick(s)
+[21:27:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5973ms behind, skipping 119 tick(s)
+[21:28:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2055ms behind, skipping 41 tick(s)
