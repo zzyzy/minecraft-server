@@ -1,17 +1,1 @@
-[09:45:45] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[09:45:45] [Server thread/INFO]: Loading properties
-[09:45:45] [Server thread/INFO]: Default game type: SURVIVAL
-[09:45:45] [Server thread/INFO]: Generating keypair
-[09:45:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:45:45] [Server thread/INFO]: Using epoll channel type
-[09:45:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:45:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:45:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:45:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:45:46] [Server thread/INFO]: Preparing level "world"
-[09:45:46] [Server thread/INFO]: Preparing start region for level 0
-[09:45:48] [Server thread/INFO]: Preparing spawn area: 0%
-[09:45:49] [Server thread/INFO]: Preparing spawn area: 25%
-[09:45:50] [Server thread/INFO]: Preparing spawn area: 63%
-[09:45:51] [Server thread/INFO]: Preparing spawn area: 89%
-[09:45:51] [Server thread/INFO]: Done (5.632s)! For help, type "help" or "?"
+[10:41:02] [Server Shutdown Thread/INFO]: Stopping server
